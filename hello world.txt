@@ -1,5 +1,5 @@
-print("Hello World!"):
-print("Fuck")
-print("Hello")
-print("Hello my dear frend")
-print("How do you do")
+print("Hello World!";):
+print("Fuck";)
+print("Hello";)
+print("Hello my dear frend";)
+print("How do you do";)
